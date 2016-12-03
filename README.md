@@ -4,18 +4,18 @@
 [![paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z75DMS8AVZY5Y)
 
 # Contents
-  - [Installation](#installation)
-  - [Start-Up](#startup)
-  - [Commands](#commands)
+  - [Installation](#installation-)
+  - [Start-Up](#startup-)
+  - [Commands](#commands-)
 
-# Installation [^](#installation)
+# Installation [^](#installation-)
   ```js
     $ git clone https://github.com/patrykcieszkowski/weatherOne.git
   ```
 
   Once you do so, remember to config your app. You need to generate API Key for [OpenWeatherMap.org](http://openweathermap.org/). You can this in ` app.js ` file.
 
-# Start-Up [^](#startup)
+# Start-Up [^](#startup-)
   ```
     node app.js
   ```
@@ -28,7 +28,7 @@
   - ` MICROSOFT_APP_PASSWORD` - microsoft password. Required in order to run bot online.
   - ` OPEN_WEATHER_MAP_KEY ` - API Key for [OpenWeatherMap.org](http://openweathermap.org/). Required.
 
-# Commands [^](#commands)
+# Commands [^](#commands-)
 
   - ` help ` 
   - ` settings|set `
